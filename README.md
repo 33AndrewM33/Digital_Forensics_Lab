@@ -232,4 +232,4 @@ I captured traffic between my Kali VM and a Metasploitable VM, which is an inten
 
 I'm a Computer Science student with a concentration in cybersecurity. I'm also working on a Cybersecurity Certificate and studying for CompTIA Security+. This repository is part of my public portfolio as I build toward a career in cybersecurity.
 
-Feel free to connect with me on LinkedIn or check out my other repositories.
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/andrew-meder33/) or check out my other repositories.
